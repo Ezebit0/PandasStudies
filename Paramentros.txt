@@ -1,0 +1,2 @@
+Encoding> é o parametro que consegue ler caracteres especiais (utf-8)
+sep> Separador
