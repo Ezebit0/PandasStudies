@@ -1,2 +1,3 @@
-Encoding> é o parametro que consegue ler caracteres especiais (utf-8)
-sep> Separador
+Encoding=(utf-8) > é o parametro que consegue ler caracteres especiais (utf-8)
+sep() > Separador
+low_memory=False > Não economize a memoria e carregue a base ded dados
